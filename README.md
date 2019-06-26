@@ -7,7 +7,6 @@ The player has to reach target by avoiding bugs
 - [How to Run the game](#Run-The-Game)
 - [How to Play the game](#Play-The-Game)
 - [How to develop the game](#How-to-develop-the-game)
-- [Demo](#Demo)
 - [Contributing](#contributing)
 
 ## Instructions
@@ -47,7 +46,5 @@ this folder.
 * Create enemy bugs with properties such as position and speed.
 * Apply collision properties for the bugs.
 * Add Win condition to the player
-## Demo
-* The github link for the project : 
 ## Contributing
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
